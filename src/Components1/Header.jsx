@@ -6,7 +6,7 @@ import logo from '../images/logo.png'
 
 import Banner from './Banner';
 const Header = () => {
-    const pages = ['Projects', 'Advantages', 'Examples','Records','Results',"WorkFormat"];
+    const pages = ['Projectss', 'Advantages', 'Examples','Records','Results',"WorkFormat"];
 
   return (
    <Stack sx={{display:"flex",flexDirection:"column",background: "black"}}>
