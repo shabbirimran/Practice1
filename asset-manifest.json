@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/shabbirimran/Practice1/static/css/main.8cb63ee1.css",
-    "main.js": "/shabbirimran/Practice1/static/js/main.73f81bea.js",
-    "static/js/787.ccc6fb0d.chunk.js": "/shabbirimran/Practice1/static/js/787.ccc6fb0d.chunk.js",
-    "static/media/banner2.png": "/shabbirimran/Practice1/static/media/banner2.9605a8ce0c51ad727401.png",
-    "static/media/Unknown 1.png": "/shabbirimran/Practice1/static/media/Unknown 1.e01105e8108536ece9b9.png",
-    "static/media/logo4.png": "/shabbirimran/Practice1/static/media/logo4.b565fffb73afd9030a5b.png",
-    "static/media/bg1.png": "/shabbirimran/Practice1/static/media/bg1.d8f7c549a2032657f251.png",
-    "static/media/logo6.png": "/shabbirimran/Practice1/static/media/logo6.33460380f620dd5d6c14.png",
-    "static/media/project1.png": "/shabbirimran/Practice1/static/media/project1.5ee4606c270deab39528.png",
-    "static/media/banner1.png": "/shabbirimran/Practice1/static/media/banner1.6fd059982b9b3b73079e.png",
-    "index.html": "/shabbirimran/Practice1/index.html",
-    "static/media/Arrow.svg": "/shabbirimran/Practice1/static/media/Arrow.4320536d6814bc8056306ccb0abf25ab.svg",
-    "static/media/Rectangle5.svg": "/shabbirimran/Practice1/static/media/Rectangle5.d2f7fdc7b0606e12679863db45b7db7b.svg",
-    "main.8cb63ee1.css.map": "/shabbirimran/Practice1/static/css/main.8cb63ee1.css.map",
-    "main.73f81bea.js.map": "/shabbirimran/Practice1/static/js/main.73f81bea.js.map",
-    "787.ccc6fb0d.chunk.js.map": "/shabbirimran/Practice1/static/js/787.ccc6fb0d.chunk.js.map"
+    "main.css": "/Practice1/static/css/main.8cb63ee1.css",
+    "main.js": "/Practice1/static/js/main.cf77b33a.js",
+    "static/js/787.ccc6fb0d.chunk.js": "/Practice1/static/js/787.ccc6fb0d.chunk.js",
+    "static/media/banner2.png": "/Practice1/static/media/banner2.9605a8ce0c51ad727401.png",
+    "static/media/Unknown 1.png": "/Practice1/static/media/Unknown 1.e01105e8108536ece9b9.png",
+    "static/media/logo4.png": "/Practice1/static/media/logo4.b565fffb73afd9030a5b.png",
+    "static/media/bg1.png": "/Practice1/static/media/bg1.d8f7c549a2032657f251.png",
+    "static/media/logo6.png": "/Practice1/static/media/logo6.33460380f620dd5d6c14.png",
+    "static/media/project1.png": "/Practice1/static/media/project1.5ee4606c270deab39528.png",
+    "static/media/banner1.png": "/Practice1/static/media/banner1.6fd059982b9b3b73079e.png",
+    "index.html": "/Practice1/index.html",
+    "static/media/Arrow.svg": "/Practice1/static/media/Arrow.4320536d6814bc8056306ccb0abf25ab.svg",
+    "static/media/Rectangle5.svg": "/Practice1/static/media/Rectangle5.d2f7fdc7b0606e12679863db45b7db7b.svg",
+    "main.8cb63ee1.css.map": "/Practice1/static/css/main.8cb63ee1.css.map",
+    "main.cf77b33a.js.map": "/Practice1/static/js/main.cf77b33a.js.map",
+    "787.ccc6fb0d.chunk.js.map": "/Practice1/static/js/787.ccc6fb0d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8cb63ee1.css",
-    "static/js/main.73f81bea.js"
+    "static/js/main.cf77b33a.js"
   ]
 }
