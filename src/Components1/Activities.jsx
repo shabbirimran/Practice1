@@ -9,6 +9,7 @@ import logo4 from '../images/logo4.png'
 import logo5 from '../images/logo5.png'
 import logo6 from '../images/logo6.png'
 import trophy from '../images/trophy1.png'
+import Section from './Section'
 
 const Activities = () => {
 //   const Profile=styled("img")(({src,theme})=>({
@@ -510,6 +511,7 @@ marginTop:{md:"-5px",sm:"-5px"}
 
    
     </Box>
+
     </Box>
   )
   }

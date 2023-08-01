@@ -12,6 +12,7 @@ import TodoForm from "./components/todoform/TodoForm";
 import Header from "./Components1/Header";
 import Banner from "./Components1/Banner";
 import Activities from "./Components1/Activities";
+import Section from "./Components1/Section";
 
 
 
@@ -33,6 +34,7 @@ function App() {
   {/* <TodoForm/> */}
   <Header/>
   <Activities/>
+  <Section/>
   </>
   )
 }
